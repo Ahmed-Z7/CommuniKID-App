@@ -99,7 +99,7 @@ export default function CardInteraction() {
         <div className="w-full h-4 bg-white/50 rounded-full overflow-hidden border border-white/20">
           <div className="w-1/3 h-full bg-primary" />
         </div>
-      </footer
+      </footer>
     </div>
   );
 }
